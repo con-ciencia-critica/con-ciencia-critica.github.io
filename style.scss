@@ -106,8 +106,14 @@ strong, b {
   font-weight: bold;
 }
 
+ins {
+  background-color: black;
+  color: white;
+  padding: 0 5px;
+}
+
 img {
-  max-width: 100%;
+  max-width: 75%;
 }
 
 // Fixes images in popup boxes from Google Translate
