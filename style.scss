@@ -113,7 +113,9 @@ ins {
 }
 
 img {
+  display: block;
   max-width: 75%;
+  margin: 0 auto;
 }
 
 // Fixes images in popup boxes from Google Translate
